@@ -1,7 +1,7 @@
 import java.sql.*;
 import java.util.Scanner;
 
-public class main {
+public class student {
 
     public static void main(String[] args) {
         Connection connection = null;
