@@ -1,6 +1,5 @@
 # Advance-JAVA Module 1
 
-# AdvanceJAVA
 Java Enterprise Edition (J2EE):
 J2EE, now known as Jakarta EE, is a collection of specifications that extends the functionalities of Java SE (Standard Edition) to create robust enterprise applications.  Here's a breakdown of key concepts with examples:
 
